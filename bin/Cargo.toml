@@ -1,7 +1,7 @@
 [package]
-name = "newproject-bin"
+name = "{{project-name}}-lib"
 version = "0.1.0"
-authors = ["Adam Chalmers <adam.s.chalmers@gmail.com>"]
+authors = ["{{authors}}"]
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
