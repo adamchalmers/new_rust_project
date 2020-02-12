@@ -1,4 +1,4 @@
-use newproject::foo;
+use {{crate_name}}::foo;
 
 fn main() {
     foo();
